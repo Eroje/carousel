@@ -1,6 +1,6 @@
  h1 {
         font-family: "Montserrat-Black";
-        font-size: 5rem;
+        font-size: 4.5rem;
         line-height: 1.5;
         font-weight: 900;
         text-align: center;
@@ -10,7 +10,7 @@
     }
     
     .carousel-item {
-    height: 480px;
+    height: 580px;
     }
     .container-fluid {
         padding: 3% 15%;
