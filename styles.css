@@ -1,5 +1,5 @@
 .carousel-item {
-    height: 10000px;
+    height: 1000px;
 }
 h1 {
     font-family: "Montserrat-Black";
@@ -8,9 +8,13 @@ h1 {
     font-weight: 900;
 }
 div {
-  width: 1000px;
+  width: 1500px;
   margin-bottom: 5px;
 }
 .carousel-item active {
-height: 100px;
+height: 250px;
 }
+.carousel-item {
+height: 250px;
+}
+
