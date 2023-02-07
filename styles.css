@@ -7,3 +7,10 @@ h1 {
     line-height: 1.5;
     font-weight: 900;
 }
+div {
+  width: 1000px;
+  margin-bottom: 5px;
+}
+.carousel-item active {
+height: 100px;
+}
